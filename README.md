@@ -44,5 +44,5 @@ Uso de timers e unidades systemd
 
 ## 👤 Autor
 **Taiones Costa**  
-[LinkedIn](https://www.linkedin.com/in/taiones) | [GitHub](https://github.com/taiones)
+[LinkedIn](www.linkedin.com/in/taiones) | [GitHub](https://github.com/taiones)
 
